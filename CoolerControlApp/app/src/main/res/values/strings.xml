@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="connect_ipAddressTextView_hint">Enter your IP address</string>
+    <string name="connect_connectButton_text" >Connect</string>
+    <string name="connect_statusTextView_text">Connection status:</string>
+    <string name="connect_disconnectButton_text" >Disconnect</string>
+    <string name="connect_status_text" >Disconnected</string>
+    <string name="connect_status_text_connected">Connected</string>
+    <string name="connect_status_text_disconnected">Disconnected</string>
+    <string name="parameters_parametersTextView_text" >Parameters</string>
+    <string name="actions_actionsTextView_text">Actions</string>
+    <string name="actions_modeTextView_text">Mode</string>
+    <string name="actions_tempTextView_text">Temperature</string>
+    <string name="actions_rpmTextView_text">Duty Cycle [0-1023]</string>
+    <string name="charts_tempRadioButton_text">Temperature</string>
+    <string name="charts_voltageRadioButton_text" >Voltage</string>
+    <string name="charts_rpmRadioButton_text">RPM</string>
+    <string name="settings_languageTextView_Text">Language</string>
+    <string name="settings_postDataInvervalTextView_text">Post data interval</string>
+    <string name="settings_msTextView_text">ms</string>
+    <string name="settings_applyButton_text">Apply</string>
+    <string name="parameters_coolerTextView_text">Cooler</string>
+    <string name="parameters_voltageTextView_text">U = </string>
+    <string name="parameters_rpmTextView_text">% rpm =</string>
+    <string name="parameters_ds18b20textView_text">DS18B20</string>
+    <string name="parameters_tempTextView_text">Temp =</string>
+    <string name="parameters_pwnTextView_text">PWM</string>
+    <string name="parameters_dutyCycleTextView_text">D =</string>
+    <string name="parameters_pressureSensorTextView_text">Pressure Sensor</string>
+    <string name="parameters_pressureDiffTextView_text">Pressure diff =</string>
+    <string name="actions_applyActionsButton_text">Apply</string>
+    <string name="commandEditText_hint">Enter command here</string>
+    <string name="log_status">Status</string>
+    <string name="log_history">Command history</string>
+    <string name="halleffectsensorTextView_text">Hall Effect Sensor</string>
+    <string name="hallRpmTextView_text">n = </string>
+    <string name="pwmRadioButton">PWM</string>
+    <string name="charts_clearButton">Clear</string>
+    <string-array name="languageOptions_pl">
+        <item>Polski</item>
+        <item>Angielski</item>
+    </string-array>
+    <string-array name="intervals">
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>5000</item>
+        <item>10000</item>
+    </string-array>
+</resources>
